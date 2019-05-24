@@ -18,7 +18,6 @@ if (len(sys.argv)>1):
   response=urllib.request.urlopen(req)
   res=str(response.read())
 
-
 #Get Status
 for i in res.split(','): 
    print (i) 
