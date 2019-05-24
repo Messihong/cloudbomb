@@ -7,4 +7,4 @@ Architecture.
 
 And used to detect the deployment issue and try to correct the configuration. 
 
-All the code would be integrated to Django.
+All the code would be integrated to Django within a Docker container.
