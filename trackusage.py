@@ -19,7 +19,6 @@ if (len(sys.argv)>1):
   res=str(response.read())
 
 
-
 #Get Status
 for i in res.split(','): 
    print (i) 
