@@ -6,3 +6,5 @@ Like License activation and deactivation, Sandwitch Architecture in Cloud, Trans
 Architecture.
 
 And used to detect the deployment issue and try to correct the configuration. 
+
+All the code would be integrated to Django.
