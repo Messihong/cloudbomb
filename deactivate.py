@@ -16,6 +16,7 @@ host=sys.argv
 #'<show><system><info></info></system></show>'
      
 def deactivate():
+
  if(len(host)>1):
 
   deactivation='<request><license><deactivate><VM-Capacity><mode>auto</mode></VM-Capacity></deactivate></license></request>'
