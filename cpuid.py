@@ -22,7 +22,6 @@ def fullpath(apitype,cmd,host):
   full_url=url+'?'+url_values
   return full_url
 
-
 #'<show><system><info></info></system></show>'
      
 def cpuid():
